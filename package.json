@@ -1,0 +1,16 @@
+{
+  "name": "npm-project",
+  "version": "1.0.0",
+  "description": "Working with npm",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zach Springer",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "lodash": "^4.17.21"
+  }
+}
